@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = InPulseNotifierSettings;
+	cell = PSLinkCell;
+	detail = InPulseNotifierSettingsListController;
+	icon = Icon.png;
+	isController = 1;
+	label = InPulseNotifier;
+    };
+}

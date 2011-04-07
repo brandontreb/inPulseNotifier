@@ -1,0 +1,9 @@
+Package: com.brandontreb.inpulsenotifier
+Name: inPulseNotifier
+Depends: mobilesubstrate, ch.ringwald.btstack, preferenceloader
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: A MobileSubstrate tweak to forward iOS notifications to an inPulse watch.
+Maintainer: Brandon Trebitowski
+Author: Brandon Trebitowski
+Section: Tweaks
