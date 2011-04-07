@@ -1,9 +1,9 @@
 # Get iOS Notifications On Your Watch! #
 by Brandon Trebitowski
 
-web: [http://brandontreb.com](http://brandontreb.com)
+web: http://brandontreb.com
 email: brandontreb [at] gmail [dot] com
-twitter: [@brandontreb](http://twitter.com/brandontreb)
+twitter: @brandontreb
 ---
 # About #
 
