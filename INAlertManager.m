@@ -217,6 +217,11 @@ int store_inpulse_string(char *dest, const char *string){
 	[pool release];
 }
 
+// Power Management
+- (void)powerMessageReceived:(natural_t)messageType withArgument:(void *) messageArgument {
+	
+}
+
 - (void) dealloc {
 	[pendingAlerts release];
 	[preferenceManager release];

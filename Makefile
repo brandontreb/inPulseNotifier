@@ -6,7 +6,7 @@ inPulseNotifier_FILES = Tweak.xm BTstackManager.m BTDevice.m INPreferenceManager
 SUBPROJECTS = settings
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-inPulseNotifier_FRAMEWORKS = UIKit Foundation QuartzCore AudioToolbox CoreGraphics
+inPulseNotifier_FRAMEWORKS = IOKit UIKit Foundation QuartzCore CoreGraphics
 inPulseNotifier_CFLAGS = -Iinclude 
 inPulseNotifier_LDFLAGS = -lBTstack
 
